@@ -5300,7 +5300,7 @@ wpo-hero-slider-s3
 /*5.1 wpo-wedding-date*/
 .wpo-wedding-time {
   text-align: center;
-  padding-bottom: 25;
+  padding-bottom: 0;
   position: relative;
   margin-top: -115px;
 }
@@ -5348,7 +5348,7 @@ wpo-hero-slider-s3
   float: left;
   display: table;
 }
-.wpo-wedding-time #clock2 > div > div {
+.wpo-wedding-time #clock2 > 25 {
   display: table-cell;
   vertical-align: middle;
 }
