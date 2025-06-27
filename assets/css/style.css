@@ -5348,7 +5348,7 @@ wpo-hero-slider-s3
   float: left;
   display: table;
 }
-.wpo-wedding-time #clock2 > 25 {
+.wpo-wedding-time #clock2 > div > div {
   display: table-cell;
   vertical-align: middle;
 }
