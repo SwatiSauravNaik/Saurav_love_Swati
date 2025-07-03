@@ -811,7 +811,7 @@
         = COUNTDOWN CLOCK2
     -------------------------------------------*/
     if ($("#clock2").length) {
-        $('#clock2').countdown('2024/06/14', function(event) {
+        $('#clock2').countdown('2026-04-21', function(event) {
             var $this = $(this).html(event.strftime(''
             + '<div class="box"><div><div class="time">%D</div> <span>Days</span> </div></div>'
             + '<div class="box"><div><div class="time">%H</div> <span>Hours</span> </div></div>'
@@ -823,7 +823,7 @@
         = COUNTDOWN CLOCK3
     -------------------------------------------*/
     if ($("#clock3").length) {
-        $('#clock3').countdown('2024/06/14', function(event) {
+        $('#clock3').countdown('2026-04-21', function(event) {
             var $this = $(this).html(event.strftime(''
             + '<div class="box"><div><div class="time">%D</div> <span>Days</span> </div></div>'
             + '<div class="box"><div><div class="time">%H</div> <span>Hours</span> </div></div>'
